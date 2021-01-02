@@ -22,9 +22,9 @@ i3-pager is a Plasma widget for people who use Plasma with i3wm. When I stumbled
 
 Shout-out to [Christian Duvholt](https://github.com/duvholt) for creating this project, and being friendly while I was terrified! It was my first time contributing to an open-source project.
 
-### [[matrix]](matrix-org)
+### [[matrix]](https://matrix.org/)
 
-I've recently discovered [matrix], an open network for secure, decentralized communication. Currently, I am trying to improve [Element](element.io) in my free time.
+I've recently discovered [matrix], an open network for secure, decentralized communication. Currently, I am trying to improve [Element](https://element.io/) in my free time.
 
 ## [dotfiles](https://github.com/SimonBrandner/dotfiles)
 
